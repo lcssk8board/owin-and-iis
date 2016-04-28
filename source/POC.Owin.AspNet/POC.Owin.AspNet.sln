@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.Owin.AspNet", "POC.Owin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.Owin.AspNet.Runner", "POC.Owin.AspNet.Runner\POC.Owin.AspNet.Runner.csproj", "{970B414D-D386-4B27-9027-32D61EA15E63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.Owin.AspNet.Tests", "POC.Owin.AspNet.Tests\POC.Owin.AspNet.Tests.csproj", "{40BD63DE-B594-4928-8E0E-5F00B7D56444}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{970B414D-D386-4B27-9027-32D61EA15E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{970B414D-D386-4B27-9027-32D61EA15E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{970B414D-D386-4B27-9027-32D61EA15E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BD63DE-B594-4928-8E0E-5F00B7D56444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BD63DE-B594-4928-8E0E-5F00B7D56444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BD63DE-B594-4928-8E0E-5F00B7D56444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BD63DE-B594-4928-8E0E-5F00B7D56444}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
